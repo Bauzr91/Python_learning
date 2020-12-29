@@ -21,4 +21,6 @@ v2 = temp
 print(v1)
 print(v2)
 
-#zkouška 
+#zkouška další a další
+
+Radek = 195
